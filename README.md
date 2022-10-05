@@ -21,6 +21,8 @@ Me formei em Física Computacional pela UFF em 2022 e, durante a graduação, fu
   <img height="45px" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="Latex"/>
   <img height="45px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="Fortran"/>
   <img height="45px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Gnuplot_val.svg" alt="Gnuplot"/>
+  <img height="45px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git"/>
+  <img height="45px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github"/>
  
 </div>
 
